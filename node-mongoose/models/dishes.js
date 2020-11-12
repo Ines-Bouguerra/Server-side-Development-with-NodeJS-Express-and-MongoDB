@@ -37,3 +37,5 @@ var dishSchema = new Schema({
 var Dishes = mongoose.model('Dish', dishSchema);
 
 module.exports = Dishes;
+
+//Schema	is	used	to	create	a	Model	function
